@@ -18,8 +18,7 @@ Xcode 13\
 Swift 5
 
 ## Issue or Problem Need to Solve
-Frames convert to MLmultiarray
-MLModel seems cannot process every frames accurately from the camera
-
+Frames convert to MLmultiarray\
+MLModel seems cannot process every frames accurately from the camera\
 Also at this moment i am still using "Image Classification" Model in this project not "Hand Pose" Model
 
