@@ -1,7 +1,7 @@
 # Sign-Language-Digits-Recogniser by Hugo Lau
 ## How to Install It
-1. Download Xcode in macOS\
-2. Open the .xcodeproj file\
+1. Download Xcode in macOS
+2. Open the .xcodeproj file
 3. Run It!
 
 ## Libraries and Framework
